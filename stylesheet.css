@@ -17,6 +17,7 @@ html {
 #article-heading{
   text-transform: capitalize !important;
   font-family: "Noto Sans", sans-serif !important;
+  padding-top: 50px;
 }
 
 #article-heading h1{
@@ -32,9 +33,15 @@ html {
 #article-content{
   font-family: "Noto Sans", sans-serif !important;
   font-weight: 400;
-  /* font-size: 1.5em; */
+  font-size: 1.3em;
   color: rgb(27, 32, 44);
   /* text-align: center; */
+}
+
+#article-heading img{
+  width: 20%;
+  /* align-content: center; */
+
 }
 
 #land {
